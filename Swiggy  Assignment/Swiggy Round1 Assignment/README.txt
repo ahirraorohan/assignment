@@ -2,11 +2,7 @@
 
 This is a simple Java implementation of the Magical Arena game.
 
-## Introduction
-
 The Magical Arena is a turn-based battle game where two players engage in combat until one of them loses all their health points.
-
-## Features
 
 - Players have attributes such as health, strength, and attack.
 - Players take turns attacking and defending using dice rolls.
@@ -23,7 +19,7 @@ The Magical Arena is a turn-based battle game where two players engage in combat
 - src/test/java (PlayerTest.java and MagicalArenaTest.java: Contains the test source code files.
 - pom.xml: Maven project configuration file.
 
-## How to Build and Run
+# How to Build and Run
 
 =>To import the project into Eclipse:
 1. Open Eclipse IDE.
@@ -31,7 +27,7 @@ The Magical Arena is a turn-based battle game where two players engage in combat
 3. Browse to the project directory and select it.
 4. Click "Finish".
 
-## How to Run
+# How to Run
 
 To run the game, follow these steps:
 
@@ -39,7 +35,7 @@ Run the 'Main.java'(src/main/java) file as a Java application to start the game.
 
 Right click on Main.java class => Run as => select Java Application
 
-## How to Play
+#How to Play
 
 1. Two players are created with initial attributes (health, strength, and attack).
 2. Players take turns attacking and defending.
